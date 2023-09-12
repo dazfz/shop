@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "username": "asd",
+      "password": "asd",
+      "id": 5
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 6
+    },
+    {
+      "id": 9999,
+      "username": "test",
+      "password": "test"
+    }
+  ],
+  "items": [
+    {
+      "name": "test",
+      "quantity": 10,
+      "seller": [
+        {
+          "username": "asd",
+          "password": "asd",
+          "id": 5
+        },
+        {
+          "username": "test",
+          "password": "test",
+          "id": 6
+        },
+        {
+          "id": 9999,
+          "username": "test",
+          "password": "test"
+        }
+      ],
+      "kind": "other",
+      "id": 1
+    },
+    {
+      "name": "first item",
+      "id": 2
+    },
+    {
+      "name": "second item",
+      "id": 3
+    },
+    {
+      "name": "third item",
+      "id": 4
+    }
+  ]
+}
